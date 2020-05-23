@@ -1,9 +1,9 @@
-# [List of all the famous and best RATS](https://github.com/DAILYHIJACKS/RAT-Army)
+# [List of all the notorious  RATS](https://github.com/DAILYHIJACKS/RAT-Army)
 
 
 
 
-# RAT
+# RAT bins by [Qirit0](https://github.com/die-dimitry)
 
 
 - 2500+ open source RAT/C&C tools, 1200+ blogs and video about RAT/C&C analysis.
